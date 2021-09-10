@@ -1,0 +1,13 @@
+1. Sdk : project structure -> select the sdk you have ant want
+
+what is maven:
+   built tool, <or package manager?>
+
+   mvnrepository.com
+
+
+   -- optional trouble shooting: invalidate cache and restart
+       <only when the project has some unexpected problem>
+
+2. what is Selenium?
+        automation tool(library) for web pages
